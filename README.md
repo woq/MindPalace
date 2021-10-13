@@ -1,5 +1,5 @@
 # The MindPalace 
-
+BY WOQ
 ## Target
 - Everything I know about Devlopper
 
@@ -10,10 +10,7 @@
 ## Changelog
 - Waiting
 
-
--------------------------------
-
 ## Powered By
-- PNPM
+- pnpm
 - VitePress
 - Github Pages
