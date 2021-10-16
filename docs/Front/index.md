@@ -1,2 +1,49 @@
 # Front
-Settings
+
+- HTML
+  - Base
+  - Forms and Validations
+  - Semantic HTML(5)
+  - Accessiibility
+  - SEO
+- CSS
+  - Base
+    - Box model
+    - Selectors
+  - layout
+    - Floats
+    - Positioning
+    - DIsplay
+    - Box Model
+    - CSS Grid
+    - FLex Box
+  - Responsive design and Media Queries
+  - Resource
+    - CSS Tricks Guide
+    - FE Masters
+    - MDN
+- Javasciprt
+  - Base
+    - Synta and Basic Constructs
+    - DOM Manipulation
+    - Fetch API / Ajax (XHR)
+  - ES6+ and Modluar Javascript
+    - Promise
+    - Async
+  - Deep
+    - Concepts
+    - Hoisting 变量提升
+    - Event Bubbling 事件冒泡
+    - Scope 作用域
+    - Prototype 原型链
+    - Shadow DOM 
+    - Strict
+- Framework
+  - React
+    - Redux
+    - Mobx
+  - Vue
+    - Vuex
+  - Angluar
+    - RxJS
+    - NgRx
