@@ -6,8 +6,19 @@ module.exports = {
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },                      // 根路径
-        { text: 'Front', link: '/front/' },
+        { text: 'Front',
+          items: [
+            { text: 'HTML', link: '/front/html/' },
+            { text: 'CSS', link: '/front/css/' }
+          ]
+        },
         { text: 'External', link: 'https://google.com' }, // 外部链接
       ],
+      sidebar: {
+        '/MindPalace/front/': [
+          '',
+          '/MindPalace'
+        ],
+      }
     }
   }
