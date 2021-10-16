@@ -14,11 +14,6 @@ module.exports = {
         },
         { text: 'External', link: 'https://google.com' }, // 外部链接
       ],
-      sidebar: {
-        '/MindPalace/front/': [
-          '',
-          '/MindPalace'
-        ],
-      }
+      sidebar: 'auto',
     }
   }

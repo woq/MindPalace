@@ -1,5 +1,9 @@
+---
+sidebar: auto
+---
 # Front
 
+## RIse
 - HTML
   - Base
   - Forms and Validations
@@ -47,3 +51,6 @@
   - Angluar
     - RxJS
     - NgRx
+
+
+## Testing
