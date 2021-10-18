@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/MindPalace/',
     lang: 'zh-CN',
     title: 'Mind Palace',
     description: 'Everyting, All end here.',
