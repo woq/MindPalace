@@ -1,26 +1,15 @@
 {
   "name": "mind-palace",
   "version": "1.0.0",
-  "description": "the woq mind palace",
   "main": "index.js",
+  "repository": "https://github.com/woq/mind-palace.git",
+  "author": "woq <33190773+woq@users.noreply.github.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/woq/mind-palace.git"
-  },
-  "author": "woq",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/woq/mind-palace/issues"
-  },
-  "homepage": "https://github.com/woq/mind-palace#readme",
   "devDependencies": {
-    "vuepress-vite": "^2.0.0-beta.26"
-  },
-  "dependencies": {
-    "nprogress": "^0.2.0"
+    "vuepress": "^2.0.0-beta.26"
   }
 }

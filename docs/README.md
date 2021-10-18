@@ -4,8 +4,13 @@ home: true
 #heroAlt: Logo image
 heroText: The Mind Palace
 tagline: Eveything I Know
-actionText: Rock
-actionLink: /Front/
+actions:
+  - text: 快速上手
+    link: /zh/guide/getting-started.html
+    type: primary
+  - text: 项目简介
+    link: /guide/
+    type: secondary
 features:
   - title: 思想就像是一座冰山
     details: 能意识到的只是很小一部分，其它大部分都埋在脑海深处，只有通过思考和写作，才能把它们发掘出来
