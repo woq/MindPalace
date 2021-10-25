@@ -23,6 +23,10 @@ module.exports = {
               text: 'JS',
               link: '/front/js/'
             },
+            {
+              text: 'VueJS',
+              link: '/front/vuejs/'
+            },
         ],
       }
       ]
