@@ -57,21 +57,9 @@ module.exports = {
             text: 'Prepare 准备',
             children: [
               {
-                text: '学习资源',
-                link: '/front/vuejs/'
-              },
-              {
-                text: '学习资源',
-                link: '/front/vuejs/'
-              },
-              {
-                text: '学习资源',
-                link: '/front/vuejs/'
-              },
-              {
-                text: '学习资源',
-                link: '/front/vuejs/'
-              },
+                text: '目录',
+                link: '/front/vuejs/prepare/'
+              }
             ],
           },
         ],
