@@ -22,13 +22,59 @@ module.exports = {
             {
               text: 'JS',
               link: '/front/js/'
-            },
-            {
-              text: 'VueJS',
-              link: '/front/vuejs/'
-            },
+            }
+        ]
+      },{
+        text: 'Vue',
+        children: [
+          {
+            text: '简介',
+            link: '/front/vuejs/'
+          },
+          {
+            text: '',
+            link: '/front/vuejs/'
+          },
+          {
+            text: '简介',
+            link: '/front/vuejs/'
+          },
+        ]
+      }
+      ],
+      sidebar: {
+        '/front/vuejs/': [
+          {
+            text: '开始',
+            children: [
+              {
+                text: '学习资源',
+                link: '/front/vuejs/'
+              },
+            ],
+          },
+          {
+            text: 'Prepare 准备',
+            children: [
+              {
+                text: '学习资源',
+                link: '/front/vuejs/'
+              },
+              {
+                text: '学习资源',
+                link: '/front/vuejs/'
+              },
+              {
+                text: '学习资源',
+                link: '/front/vuejs/'
+              },
+              {
+                text: '学习资源',
+                link: '/front/vuejs/'
+              },
+            ],
+          },
         ],
       }
-      ]
     }
   }

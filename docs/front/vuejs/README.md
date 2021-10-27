@@ -4,9 +4,9 @@
 - ECO
 - Awesome
 
-## Learning resources
+## Learning Resources
 - Books
-- Offical Resources
+- Offical Docs
 
 
 ### Books
@@ -32,7 +32,7 @@
   - Cookbook
   - API
 
-## Vuejs Prework 学习前基础准备
+## Vuejs Prepare 学习前基础准备
 - JS Base
 - ES.NEXT
 

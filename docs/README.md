@@ -6,7 +6,7 @@ heroText: The Mind Palace
 tagline: Eveything I Know
 actions:
   - text: 开始
-    link: /front/
+    link: /front/vuejs/
     type: primary
   - text: 更多
     link: https://github.com/woq/MindPalace
