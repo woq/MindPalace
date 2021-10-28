@@ -30,14 +30,6 @@ module.exports = {
             text: '简介',
             link: '/front/vuejs/'
           },
-          {
-            text: '',
-            link: '/front/vuejs/'
-          },
-          {
-            text: '简介',
-            link: '/front/vuejs/'
-          },
         ]
       }
       ],
