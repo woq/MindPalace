@@ -23,7 +23,8 @@ module.exports = {
               link: '/front/js/'
             }
         ]
-      },{
+      },
+      {
         text: 'Vue',
         children: [
           {
@@ -31,7 +32,16 @@ module.exports = {
             link: '/front/vuejs/'
           },
         ]
-      }
+      },
+      {
+        text: 'Knowledge',
+        children: [
+          {
+            text: 'Reading',
+            link: '/knowledge/reading/'
+          },
+        ]
+      },
       ],
       sidebar: {
         '/front/vuejs/': [
@@ -44,6 +54,21 @@ module.exports = {
             children: [
               {
                 text: '目录',
+                link: '/front/vuejs/prepare/'
+              }
+            ],
+          },
+        ],
+        '/knowledge/reading/': [
+          {
+            text: '阅读',
+            link: '/knowledge/reading/',
+          },
+          {
+            text: '技术',
+            children: [
+              {
+                text: 'Vuejs 准备',
                 link: '/front/vuejs/prepare/'
               }
             ],
