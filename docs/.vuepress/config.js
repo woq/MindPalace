@@ -8,7 +8,7 @@ module.exports = {
       navbar: [
         // NavbarItem
         {
-          text: '大前端',
+          text: 'Some',
           children: [
             {
               text: 'HTML',
@@ -21,6 +21,10 @@ module.exports = {
             {
               text: 'JS',
               link: '/front/js/'
+            },
+            {
+              text: 'Efficiency',
+              link: '/front/efficiency/'
             }
         ]
       },
