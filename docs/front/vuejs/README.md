@@ -1,13 +1,10 @@
-# VueJS
-- Learning resources
-- Prework
-- ECO
-- Awesome
+- [Learn Resources](#learn-resources)
+  - [Books](#books)
+  - [Docs](#docs)
+- [Prepare 学习前基础准备](#prepare-学习前基础准备)
+- [Eco 生态](#eco-生态)
 
-## Learning Resources
-- Books
-- Offical Docs
-
+## Learn Resources
 
 ### Books
   - Vuejs 小书
