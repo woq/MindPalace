@@ -32,9 +32,13 @@ module.exports = {
         text: 'Vue',
         children: [
           {
-            text: '简介',
+            text: '起步',
             link: '/front/vuejs/'
           },
+          {
+            text: '准备',
+            link: '/front/vuejs/prepare/'
+          }
         ]
       },
       {
@@ -59,7 +63,11 @@ module.exports = {
               {
                 text: '目录',
                 link: '/front/vuejs/prepare/'
-              }
+              },
+              {
+                text: 'ES6',
+                link: '/front/vuejs/prepare/es6'
+              },
             ],
           },
         ],
